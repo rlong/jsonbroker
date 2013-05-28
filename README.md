@@ -18,4 +18,3 @@ GitHub Project | Platform | Root Name Space / Folder | Build Artefact
 
 
 ----
-[Scratch](Scratch.md)
