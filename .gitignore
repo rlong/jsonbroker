@@ -1,0 +1,12 @@
+# OS X
+.DS_Store
+
+# JetBrains WebStorm
+.idea/
+
+# emacs 
+*~
+
+# Jekyll output
+_site
+
