@@ -51,7 +51,8 @@ associated with the 'jsonbroker' project.
 * [Mobile Web Apps Still Have Some Major Hurdles](http://reefpoints.dockyard.com/2011/11/10/mobile-web-apps.html)
 * [Why Building a Mobile App is Hard](https://news.ycombinator.com/item?id=3534606) 
 * [Mobile Apps: HTML5 vs Native](http://www.ericsink.com/entries/html5_vs_native_apps.html)
-* [ Go native, HTML5 is going to lag for a while](http://blog.suthakamal.com/2012/08/go-native-html5-is-going-to-lag-for.html)
+* [Go native, HTML5 is going to lag for a while](http://blog.suthakamal.com/2012/08/go-native-html5-is-going-to-lag-for.html)
+* [Mobile: Native Apps, Web Apps, and Hybrid Apps](http://www.nngroup.com/articles/mobile-native-apps/)
 
 ### iOS Specific
 
@@ -98,6 +99,7 @@ associated with the 'jsonbroker' project.
 * [MontageJS: An HTML5 framework for building modern web applications](http://montagejs.org/)
 * [Bridge is a unified messaging system that allows you to easily build cross-language services](https://github.com/getbridge/bridge-js)
 * [Kirin](https://github.com/kirinjs/kirin)
+* [Intel XDK NEW Development Tools](http://software.intel.com/en-us/html5/tools)
 		
 ### Miscellaneous / Unsorted
 
