@@ -29,7 +29,7 @@ It is built primarily for mobile applications, and **START HERE**
     -   messages. Messages are composed of JSON strings.
 
 -   JsonBroker is oriented around the concept of Services. These are
-    modeled after the facade design patter [ref: Gang-of-4], or COM
+    modeled after the facade design patter (ref: Gang-of-4), or COM
     objects in MS-Windows.
 
 -   A Service makes no statement about what type of language it is
@@ -52,13 +52,13 @@ It is built primarily for mobile applications, and **START HERE**
         methods and the errors associated with those methods
 
     -   some level of authentication of clients in a networked
-        deployment is built-in via message digest authentication [ref:
-        RFC-2617]
+        deployment is built-in via message digest authentication (ref:
+        RFC-2617)
 
     -   division of responsibilities into at least 2 layers. Core
-        business rules [ref: pragmatic programmer] implemented in
+        business rules \[pragmatic programmer\] implemented in
         services. policy business rules are implemented in clients. In
-        addition, aligns somewhat with MVC [ref: ???], 'Model' can be
+        addition, aligns somewhat with MVC, 'Model' can be
         implemented as a service. 'View', and 'Controller' implemented
         as a client. Simplifies integration and system testing of a
         service.
@@ -124,13 +124,12 @@ Development
 CSS
 ===
 
-target Retina devices in CSS [ref: http://zachwill.com/tumblr-ios/] ...
+[target Retina devices in CSS](http://zachwill.com/tumblr-ios/) ... 
 
     @media only screen and (-webkit-min-device-pixel-ratio: 2) {    /* Retina CSS */
     }
 
-disable autosizing of text in the CSS [ref:
-http://stackoverflow.com/questions/1619802/uiwebview-resizes-text-after-rotating-looking-for-explanation-for-magical-bug-o]
+[disable autosizing of text in the CSS](http://stackoverflow.com/questions/1619802/uiwebview-resizes-text-after-rotating-looking-for-explanation-for-magical-bug-o) ...
 
     html {    
         -webkit-text-size-adjust: none; 
@@ -159,40 +158,27 @@ Glossary
 Notes/Scratch
 =============
 
-\* poor mans dependency injection
-
-\* need to move helper methods from `BrokerMessage` to
+* poor mans dependency injection
+* need to move helper methods from `BrokerMessage` to
 `BrokerMessageHelper`.
-
-\* need to rename `BrokerMessage.metaInformation` to
+* need to rename `BrokerMessage.metaInformation` to
 `BrokerMessage.metaData`.
 
 Imported from Notes
 ===================
 
-taken from `/Volumes/shared_disk/notes/notes.jsonbroker/jsonbroker.txt`
+taken from `notes.jsonbroker/jsonbroker.txt`
 
 -   supports division of responsibilities;
-
 -   does not require any specific IDE/OS for development;
-
 -   integrates (well enough) with Chrome to allow development outside;
-
 -   remote broker;
-
 -   future support for bluetooth;
-
 -   targets browser, desktop, and mobile environments;
-
 -   nothing specific to mobile platforms;
-
 -   sync/async model
-
 -   small js footprint
-
 -   remote broker supports security
-
--   outside of the JSON objects \<Service\>, implementors do not write
+-   outside of the JSON objects `<Service>`, implementors do not write
     any specific javascript
-
--   
+   
