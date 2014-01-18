@@ -54,6 +54,7 @@ associated with the 'jsonbroker' project.
 * [Go native, HTML5 is going to lag for a while](http://blog.suthakamal.com/2012/08/go-native-html5-is-going-to-lag-for.html)
 * [Mobile: Native Apps, Web Apps, and Hybrid Apps](http://www.nngroup.com/articles/mobile-native-apps/)
 
+
 ### iOS Specific
 
 * [To WebKit or not to WebKit within your iPhone app?](http://drnicwilliams.com/2008/11/10/to-webkit-or-not-to-webkit-within-your-iphone-app/)
@@ -61,17 +62,21 @@ associated with the 'jsonbroker' project.
 * [Anatomy of a Native Feeling HTML5 iOS App](http://justinvincent.com/page/2043/anatomy-of-a-native-feeling-html5-ios-app)
 * [A Primer on Hybrid Apps for iOS](https://www.cocoacontrols.com/posts/a-primer-on-hybrid-apps-for-ios)
 
+
 ### Icons
 
 * [Typicons](http://www.typicons.com/)
+
 
 ### Java
 
 * [Standard Java API for JSON](http://www.infoq.com/news/2013/04/standard-java-api-for-json)
 
+
 ### Javascript
 
 * [Sane Async Patterns - SlideShare](http://www.slideshare.net/TrevorBurnham/sane-async-patterns)
+
 
 ### Projects / Libraries
 
@@ -79,8 +84,8 @@ associated with the 'jsonbroker' project.
 * [Eskimo - native control patterns on apps on multiple mobile platforms](https://github.com/People-in-action/eskimo)
 * [A few months with Titanium Appcelerator](http://pasamio.com/2011/07/02/a-few-months-with-titanium-appcelerator/)
 * PastryKit:
-	* [What is the PastryKit Framework?](http://stackoverflow.com/questions/1143589/what-is-the-pastrykit-framework)
-	* [Daring Fireball: PastryKit](http://daringfireball.net/2009/12/pastrykit)
+  * [What is the PastryKit Framework?](http://stackoverflow.com/questions/1143589/what-is-the-pastrykit-framework)
+  * [Daring Fireball: PastryKit](http://daringfireball.net/2009/12/pastrykit)
 * [WebApp.Net](http://webapp-net.com/)
 * [Backbone.js](http://documentcloud.github.com/backbone/)
 * [Cappuccino Web Framework](http://cappuccino.org/)
@@ -100,7 +105,8 @@ associated with the 'jsonbroker' project.
 * [Bridge is a unified messaging system that allows you to easily build cross-language services](https://github.com/getbridge/bridge-js)
 * [Kirin](https://github.com/kirinjs/kirin)
 * [Intel XDK NEW Development Tools](http://software.intel.com/en-us/html5/tools)
-		
+
+
 ### Miscellaneous / Unsorted
 
 * [Best approaches for developing Mobile Apps in a fragmented ecosystem](http://news.ycombinator.com/item?id=3253972)

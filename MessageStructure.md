@@ -6,6 +6,8 @@ layout: default
 
 Message Structure
 =================
+**document-version:  0.0.2014.01.18 (pre-alpha)**  
+
 
 In it's most basic form, a pair of JsonBroker handles the passing of a
 the passing of a request fom a caller to a service and then the passing

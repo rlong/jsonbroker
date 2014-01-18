@@ -5,17 +5,9 @@ layout: default
 
 Scratch Area
 ------
+**document-version:  not-applicable**  
 
 
-A set of libraries for building hybrid applications. It is centred around a simple message structure that allows a client (caller) to invoke methods on a server (callee), where the interface between the client and the server can be implemented in the same language, implemented in different languages, or can exist in separate processes. **START HERE**
-
-It is built primarily for mobile applications, and **START HERE**
-
-----
-
-A set of libraries for building hybrid applications. It is centred around a simple message structure that allows a client (caller) to invoke methods on a server (callee), where the interface between the client and the server can be implemented in the same language, implemented in different languages, or can exist in separate processes. **START HERE**
-
-It is built primarily for mobile applications, and **START HERE**
 
 ----
 
