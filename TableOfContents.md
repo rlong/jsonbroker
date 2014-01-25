@@ -3,10 +3,9 @@ layout: default
 ---
 
 
-
 Table of Contents
 =================
-**document-version:  0.0.2014.01.18 (pre-alpha)**  
+**document-version:  0.0.2014.01.25 (pre-alpha)**  
 
 
 * [Introduction](index.html)
@@ -14,6 +13,9 @@ Table of Contents
 * [Message Structure](MessageStructure.html)
 * [Sub-Projects](SubProjects.html)
 * [Links](Links.html)
+* [Objective-C Primer](Objective-CPrimer.html)
+* [Css Tips](CssTips.html)
+* [HTML Tips](HtmlTips.html)
 
 Placeholders
 =================

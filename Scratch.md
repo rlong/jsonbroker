@@ -150,6 +150,7 @@ Glossary
 Notes/Scratch
 =============
 
+* integration testing via `curl`
 * poor mans dependency injection
 * need to move helper methods from `BrokerMessage` to
 `BrokerMessageHelper`.
