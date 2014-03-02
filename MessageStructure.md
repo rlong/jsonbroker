@@ -1,16 +1,23 @@
 ---
 layout: default
+title: Message Structure
+
 ---
 
 
 
 Message Structure
 =================
-**document-version:  0.0.2014.01.18 (pre-alpha)**  
+**document-version:  0.0.2014.03.02 (pre-alpha)**
+
+
+### Request / Reply
+
+The most typical usecase is between a *client* (caller) invoking methods on a *server* (callee). This involves one *request* message being passed to from the client to the server and then the server passing back a *response* to the client. Request messages are unmarshalled by the jsonbroker library and passed to a developer provided module known *service* which processes the request and passes back a response object which the jsonbroker library attempts to return the response to the client.
 
 
 In it's most basic form, a pair of JsonBroker handles the passing of a
-the passing of a request fom a caller to a service and then the passing
+the passing of a *request* from a caller to a service and then the passing
 of a response from the service to a the same called. A JsonBroker
 Message is simply a JSON array. A simple request sent to a service would
 look like
@@ -38,7 +45,7 @@ look like
     (associative) parameters to be passed to the method/function
     previously identified.
 
-The corresponding response from a service would look like
+The corresponding *response* from a service would look like
 
     ["response",{},"jsonbroker.TestService",1,0,"ping",{}]
 
@@ -93,5 +100,11 @@ receiver of the message is expecting :
 
 8.  ordered parameters; this is an optional JSON array. It is a list of
     ordered parameters associated with the method-name
+
+### Oneway
+
+
+### Meta
+
 
 ----

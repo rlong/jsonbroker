@@ -1,11 +1,14 @@
 ---
 layout: default
+title: Links
+
 ---
 
 
 
 Links
 =================
+**document-version:  0.0.2014.03.02 (pre-alpha)**
 
 A set of links that I've gathered that are (sometimes tangentially) 
 associated with the 'jsonbroker' project.

@@ -1,11 +1,13 @@
 ---
 layout: default
+title: Table of Contents
+
 ---
 
 
 Table of Contents
 =================
-**document-version:  0.0.2014.01.25 (pre-alpha)**  
+**document-version:  0.0.2014.03.02 (pre-alpha)**
 
 
 * [Introduction](index.html)
@@ -14,6 +16,7 @@ Table of Contents
 * [Sub-Projects](SubProjects.html)
 * [Links](Links.html)
 * [Objective-C Primer](Objective-CPrimer.html)
+* [Services](Services.html)
 * [Css Tips](CssTips.html)
 * [HTML Tips](HtmlTips.html)
 

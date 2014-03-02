@@ -1,11 +1,12 @@
 ---
 layout: default
+title: A Short Primer on Objective-C
+
 ---
 
 A Short Primer on Objective-C
 ====
-**document-version:  0.0.2014.01.25 (pre-alpha)**  
-
+**document-version:  0.0.2014.03.02 (pre-alpha)**
 
 This document is intended for developers who are already familiar with another programming language and understand the differences between the memory models of C vs. Java/C#.
 

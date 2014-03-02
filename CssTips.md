@@ -1,11 +1,12 @@
 ---
 layout: default
+title: CSS Tips
+
 ---
 
-Css Tips
+CSS Tips
 ====
-**document-version:  0.0.2014.01.25 (pre-alpha)**  
-
+**document-version:  0.0.2014.03.02 (pre-alpha)**
 
 ###Disable text selection on elements acting as buttons
 

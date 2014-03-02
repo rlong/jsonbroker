@@ -1,10 +1,12 @@
 ---
 layout: default
+title: HTML Tips
+
 ---
 
-Html Tips
+HTML Tips
 ===
-**document-version:  0.0.2014.01.25 (pre-alpha)**  
+**document-version:  0.0.2014.03.02 (pre-alpha)**
 
 
 

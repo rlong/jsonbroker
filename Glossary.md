@@ -1,11 +1,14 @@
 ---
 layout: default
+title: Glossary
+
 ---
 
 
 
 Glossary
 ========
+**document-version:  0.0.2014.03.02 (pre-alpha)**
 
 - Applescript
 - Bluetooth
